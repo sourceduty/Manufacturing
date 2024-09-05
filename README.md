@@ -3,6 +3,18 @@
 > Making goods using equipment, labor, machines, tools, and chemical or biological methods.
 
 #
+
+Manufacturing is the process of converting raw materials into finished products through the use of machinery, tools, and labor. It plays a critical role in economies worldwide by enabling mass production and contributing to the availability of goods. The manufacturing sector covers a wide range of industries, from automotive and electronics to textiles and chemicals. This process can be broken down into various stages such as design, fabrication, assembly, and quality control, ensuring that each product meets specific standards before reaching the market.
+
+In recent years, manufacturing has undergone significant transformations due to advances in technology, such as automation, robotics, and artificial intelligence. These innovations have led to increased efficiency, precision, and reduced production costs. Additionally, practices like lean manufacturing, which aims to minimize waste, have become popular to improve productivity. Globalization has also impacted manufacturing, with companies often outsourcing production to countries with lower labor costs, leading to complex international supply chains.
+
+#
+### Manufacturing Notes
+
+<details><summary>Optimal Manufacturing Locations</summary>
+<br>
+
+#
 ### Steel Manufacturing
 
 Common Uses: Construction, automotive, infrastructure, and appliances.
@@ -72,9 +84,33 @@ The optimal location for manufacturing specific materials and products depends o
 
 The best choice for manufacturing depends on the specific needs of the product and business strategy. For cost-sensitive products, China and Vietnam are strong choices due to their lower labor costs and established infrastructure. For companies targeting the North American market, Mexico offers proximity and cost benefits. India presents a growing opportunity with government support and a large workforce, while Eastern Europe provides a skilled labor force close to Western markets. For high-tech and high-quality products, the United States remains a top choice despite higher costs. Balancing these factors based on the product type, market, and company priorities will guide the best manufacturing location decision.
 
-#
+<br>
+</details>
 
-![Canadian](https://github.com/user-attachments/assets/0cda95bb-57b7-4d9c-ba0f-0d4410d01589)
+<details><summary>Material Welding Strength</summary>
+<br>
+
+![Welder](https://github.com/user-attachments/assets/ea236a84-0caa-4414-9cd3-1334e450ca87)
+
+This table below provides a detailed breakdown of different material types, their associated filler materials, and their thickness ranges. It also describes whether welding typically increases the strength of the material. The table specifies which welding processes are compatible with each material, including Stick (SMAW), MIG (GMAW), TIG (GTAW), Flux-Cored Arc Welding (FCAW), and Submerged Arc Welding (SAW). For example, low carbon steel with an E70XX filler material works with most processes, while materials like aluminum and stainless steel are best suited for TIG and MIG processes but are not compatible with Stick welding.
+
+Each material has specific filler materials and welding process compatibility, which impacts the ease of use and the effectiveness of welding. Stainless steel, aluminum, and titanium are commonly welded using TIG or MIG, ensuring strength without compromising material properties. Heavier materials, such as tool steels and high carbon steel, often require Stick or SAW welding to handle their toughness, but they may need additional treatments for maximum strength. Cast iron and high carbon steel are more complex due to their brittleness, requiring post-weld treatments to maintain material integrity.
+
+............................................................................................................................
+
+Material Type      | Filler Material     | Thickness Range       | Strength Increase?                                       | Stick (SMAW) | MIG (GMAW) | TIG (GTAW) | FCAW | SAW
+-------------------|---------------------|-----------------------|----------------------------------------------------------|--------------|------------|------------|------|-----
+Low Carbon Steel   | E70XX Series        | 1/8" (3 mm) to 1"     | Yes (with proper heat treatment)                          | Yes          | Limited    | No         | Yes  | Yes
+Stainless Steel    | ER308L, ER316L      | 1/16" (1.5 mm) to 1/2"| Yes (if heat input is controlled)                        | No           | Yes        | Yes        | No   | No
+Aluminum           | ER4043, ER5356      | 1/16" (1.5 mm) to 1/4"| Yes (with heat control)                                  | No           | Yes        | Yes        | No   | No
+Titanium           | ERTi-2, ERTi-5      | 1/16" (1.5 mm) to 1/2"| Yes                                                       | No           | Limited    | Yes        | No   | No
+Nickel Alloys      | Inconel 625         | 1/16" (1.5 mm) to 3/4"| Yes (in high-temperature conditions)                     | Limited      | Yes        | Yes        | Yes  | Yes
+Tool Steels        | Tool Steel Filler   | 1/8" (3 mm) to 1"     | Yes (with pre-heating and post-weld treatments)          | Yes          | No         | Yes        | Yes  | No
+Cast Iron          | Nickel-based        | Varies                | No (unless treated post-weld)                            | Yes          | No         | No         | Yes  | No
+High Carbon Steel  | E8018, E9018        | 1/8" (3 mm) to 1"     | No (without heat treatment, brittleness may occur)       | Yes          | No         | No         | Yes  | Yes
+
+<br>
+</details>
 
 #
 ### Related Links
@@ -88,6 +124,12 @@ The best choice for manufacturing depends on the specific needs of the product a
 [Business Model Simulator](https://github.com/sourceduty/Business_Model_Simulator)
 <br>
 [Chinese Manufacturing](https://github.com/sourceduty/Chinese_Manufacturing)
+<br>
+[3D Printing](https://github.com/sourceduty/3D_Printing)
+<br>
+[Concept Design](https://github.com/sourceduty/Concept_Design)
+<br>
+[Factory Simulator](https://github.com/sourceduty/Factory_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
