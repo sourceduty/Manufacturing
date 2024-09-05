@@ -1,0 +1,9 @@
+Material Type,Filler Material,Thickness Range,Strength Increase?,Stick (SMAW),MIG (GMAW),TIG (GTAW),FCAW,SAW
+Low Carbon Steel,E70XX Series,"1/8"" (3 mm) to 1""",Yes (with proper heat treatment),Yes,Limited,No,Yes,Yes
+Stainless Steel,"ER308L, ER316L","1/16"" (1.5 mm) to 1/2""",Yes (if heat input is controlled),No,Yes,Yes,No,No
+Aluminum,"ER4043, ER5356","1/16"" (1.5 mm) to 1/4""",Yes (with heat control),No,Yes,Yes,No,No
+Titanium,"ERTi-2, ERTi-5","1/16"" (1.5 mm) to 1/2""",Yes,No,Limited,Yes,No,No
+Nickel Alloys,Inconel 625,"1/16"" (1.5 mm) to 3/4""",Yes (in high-temperature conditions),Limited,Yes,Yes,Yes,Yes
+Tool Steels,Tool Steel Filler,"1/8"" (3 mm) to 1""",Yes (with pre-heating and post-weld treatments),Yes,No,Yes,Yes,No
+Cast Iron,Nickel-based,Varies,No (unless treated post-weld),Yes,No,No,Yes,No
+High Carbon Steel,"E8018, E9018","1/8"" (3 mm) to 1""","No (without heat treatment, brittleness may occur)",Yes,No,No,Yes,Yes
