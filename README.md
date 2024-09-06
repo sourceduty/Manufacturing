@@ -150,6 +150,8 @@ These advanced molding techniques enable manufacturers to create more efficient,
 [Computational Electrofusion](https://github.com/sourceduty/Computational_Electrofusion)
 <br>
 [4D Printing](https://github.com/sourceduty/4D_Printing)
+<br>
+[House Manufacturing](https://github.com/sourceduty/House_Manufacturing)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
