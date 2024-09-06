@@ -148,6 +148,8 @@ These advanced molding techniques enable manufacturers to create more efficient,
 [Factory Simulator](https://github.com/sourceduty/Factory_Simulator)
 <br>
 [Computational Electrofusion](https://github.com/sourceduty/Computational_Electrofusion)
+<br>
+[4D Printing](https://github.com/sourceduty/4D_Printing)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
