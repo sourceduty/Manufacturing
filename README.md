@@ -130,6 +130,8 @@ High Carbon Steel  | E8018, E9018        | 1/8" (3 mm) to 1"     | No (without h
 [Concept Design](https://github.com/sourceduty/Concept_Design)
 <br>
 [Factory Simulator](https://github.com/sourceduty/Factory_Simulator)
+<br>
+[Computational Electrofusion](https://github.com/sourceduty/Computational_Electrofusion)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
