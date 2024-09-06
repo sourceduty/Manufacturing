@@ -112,6 +112,22 @@ High Carbon Steel  | E8018, E9018        | 1/8" (3 mm) to 1"     | No (without h
 <br>
 </details>
 
+<details><summary>Plastic Molding</summary>
+<br>
+
+![Plastic Injection](https://github.com/user-attachments/assets/16057304-6df5-4467-9088-6bc838c85ad0)
+
+Plastic molding is a manufacturing process where plastic materials are shaped into specific forms using molds. This method involves melting plastic pellets and injecting them into a mold where they cool and solidify into the desired shape. Plastic molding is widely used in industries ranging from automotive to consumer products because of its ability to produce high-precision parts in large volumes. The process offers versatility, allowing the production of items with intricate designs, varying sizes, and different material properties. Some of the most common types of plastic molding techniques include injection molding, blow molding, and rotational molding.
+
+Overmolding is a specialized form of plastic molding that involves molding a layer of plastic over an existing part or substrate, often made of a different material. This technique is commonly used to create products that require a combination of materials to achieve desired functional or aesthetic properties. For example, overmolding can be used to add a soft rubber grip to a rigid plastic handle, providing both comfort and durability. The process enhances product design by allowing for multi-material construction, improving ergonomics, and reducing assembly steps since parts are combined in the molding process itself.
+
+Other related plastic molding methods include insert molding and multi-shot molding. Insert molding involves placing a pre-made part, often metal or another plastic, into a mold before injecting plastic around it. This creates a bonded assembly without the need for additional manufacturing steps. Multi-shot molding, on the other hand, allows for the injection of multiple plastic materials in sequence, creating complex parts with different colors or material properties in one production cycle. Both techniques are widely used in the automotive, electronics, and medical industries, where complex parts with varied functionalities are required.
+
+These advanced molding techniques enable manufacturers to create more efficient, durable, and high-performance products by combining different materials in a single process. The ability to use multiple materials, integrate components, and create intricate designs opens up possibilities for product innovation while also reducing production costs and time. As plastic molding technologies continue to evolve, they play a crucial role in various industries by enabling the mass production of components that meet precise specifications.
+
+<br>
+</details>
+
 #
 ### Related Links
 
