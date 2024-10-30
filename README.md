@@ -1,3 +1,4 @@
+![Tools](https://github.com/user-attachments/assets/5060ea21-63e8-4999-a712-188702966b93)
 ![Tools](https://github.com/user-attachments/assets/b1ea7428-6737-4f47-81bb-ddcee835b84a)
 
 > Making goods using equipment, labor, machines, tools, and chemical or biological methods.
